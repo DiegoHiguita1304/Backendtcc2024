@@ -31,9 +31,9 @@ public class Main {
 //        vehiculo.setKilometraje(lea.nextDouble());
 //        System.out.println("El kilometraje del vehiculo es " + vehiculo.getKilometraje());
 //
-//        System.out.print("Digite el color del vehiculo: ");
-//        vehiculo.setColor(lea.nextLine());
-//        System.out.println("El color del vehiculo es " + vehiculo.getColor());
+       System.out.print("Digite el color del vehiculo: ");
+       vehiculo.setColor(lea.nextLine());
+       System.out.println("El color del vehiculo es " + vehiculo.getColor());
 //
 //        System.out.print("Digite la descripcion del vehiculo: ");
 //        vehiculo.setDescripcion(lea.nextLine());
